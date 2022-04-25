@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KursShmakovAKITP", "KursShmakovAKITP\KursShmakovAKITP.csproj", "{80B02478-D274-417D-8520-D793734B6A21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ECCE2240-A600-42A6-970D-8482C5750FC3}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B02478-D274-417D-8520-D793734B6A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B02478-D274-417D-8520-D793734B6A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B02478-D274-417D-8520-D793734B6A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B02478-D274-417D-8520-D793734B6A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689ABCD9-8D15-4276-AB12-E62FA7AD6760}
+	EndGlobalSection
+EndGlobal
